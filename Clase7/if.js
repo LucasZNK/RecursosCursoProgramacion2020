@@ -1,18 +1,16 @@
 let miCondicion = true;
-
-if (miCondicion) {
-    //* Acciones a ejecutar si la condiciones es verdadera aca
-} else {
-    //! Acciones a ejecutar si la condicion no es verdadera
-}
-
-
 // Boliche 
 // Para entrar tienen que ser mayores o iguales a 18 años y tener el documento con ellos.
 let edadDeLaPersona = 21;
 let edadPermitidaDeIngreso = 18;
 let tieneElDocumento = true;
 let permisoFirmado = true;
+
+if (miCondicion) {
+    //* Acciones a ejecutar si la condiciones es verdadera aca
+} else {
+    //! Acciones a ejecutar si la condicion no es verdadera
+}
 
 // F                         &&      T
 if (edadDeLaPersona >= edadPermitidaDeIngreso && tieneElDocumento) {
