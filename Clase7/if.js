@@ -1,7 +1,7 @@
 let miCondicion = true;
 // Boliche 
 // Para entrar tienen que ser mayores o iguales a 18 años y tener el documento con ellos.
-let edadDeLaPersona = 21;
+let edadDeLaPersona = 16;
 let edadPermitidaDeIngreso = 18;
 let tieneElDocumento = true;
 let permisoFirmado = true;
